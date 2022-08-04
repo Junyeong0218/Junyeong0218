@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JunyeongPark&fontSize=70&animation=fadeIn&fontAlignY=35)
-<h3>Tech Stacks</h3>
+<h2>🛠 Tech Stacks</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black">&nbsp;
@@ -13,5 +13,8 @@
   <img src="https://img.shields.io/badge/JSP-93b5c6?style=flat-square&logo=Java&logoColor=white">
 </p>
 <br>
-###✉ Email
-hippo2003@naver.com
+<h2>✉ Email</h2>
+<h3>hippo2003@naver.com</h3>
+<br>
+<h2>Blog</h2>
+<h3><a href="https://blog.naver.com/hippo2003">https://blog.naver.com/hippo2003</a></h3>
